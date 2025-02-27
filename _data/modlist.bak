@@ -480,12 +480,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
@@ -636,12 +630,6 @@
     "version": null
   },
   {
-    "author": "Kikohi and Sarg",
-    "name": "Colored deep resources",
-    "steamId": "3203269467",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
@@ -676,6 +664,36 @@
     "name": "Twitch Toolkit",
     "steamId": "3013874066",
     "version": "2.0.10.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "lmgginspace",
+    "name": "[lmgginspace] Repair bed",
+    "steamId": "2656590581",
+    "version": "1.0.0+8bbbfa9cda1b703ba8c3aece296a13a4079c7a83"
+  },
+  {
+    "author": "Kikohi and Sarg",
+    "name": "Colored deep resources",
+    "steamId": "3203269467",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Everybody Gets One",
+    "steamId": "1687566130",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+be85524012f4811e094a1de5a45e51952864cf2a"
   },
   {
     "author": "Sarg Bjornson and Oskar Potocki",
@@ -796,6 +814,12 @@
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg Bjornson",
@@ -1050,40 +1074,16 @@
     "version": null
   },
   {
-    "author": "lmgginspace",
-    "name": "[lmgginspace] Repair bed",
-    "steamId": "2656590581",
-    "version": "1.0.0+8bbbfa9cda1b703ba8c3aece296a13a4079c7a83"
-  },
-  {
     "author": "SamBucher",
     "name": "A Dog Said... Animal Prosthetics 2",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Uuugggg",
-    "name": "Everybody Gets One",
-    "steamId": "1687566130",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Densevoid and Maeyanie",
     "name": "One bed to sleep with all - Polycule Edition",
     "steamId": "3244294636",
     "version": "1.0.2"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.5.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+be85524012f4811e094a1de5a45e51952864cf2a"
   },
   {
     "author": "Sarg Bjornson, Chowder and Trahspanda",
@@ -1100,12 +1100,6 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Cooking Expanded - Sushi",
     "steamId": null,
     "version": null
   },
